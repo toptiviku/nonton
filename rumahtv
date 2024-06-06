@@ -2591,12 +2591,6 @@ https://testfunctionlive.mncnow.id/live/eds/tvN/sa_dash_vmx/tvN.mpd
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
 http://op-group1-swiftservehd-1.dens.tv/h/h215/02.m3u8
 
-#EXTVLCOPT:http-referrer=https://www.visionplus.id/
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NzEwNGYwNjEtNzBjNC0zNmJjLTkwZGMtMGQ1Yjg3ZWJhZTBi
-#EXTINF:-1 tvg-id="tvN MOVIES HD - [Channel 415].id" tvg-url="https://www.bevy.be/bevyfiles/indonesia.xml" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_25.png" group-title="KOREA",TvN MOVIES HD1
-https://testfunctionlive.mncnow.id/live/eds/tvNMOVIES/sa_dash_vmx/tvNMOVIES.mpd
-
 #EXTINF:-1 tvg-id="tvN MOVIES HD - [Channel 415].id" tvg-url="https://www.bevy.be/bevyfiles/indonesia.xml" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_25.png" group-title="KOREA",TvN MOVIES HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
 http://op-group1-swiftservehd-1.dens.tv/h/h214/02.m3u8
@@ -2618,18 +2612,21 @@ https://kbsworld-ott.akamaized.net/hls/live/2002341/kbsworld/01.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
 https://op-krgroup1-swiftservehd-1.dens.tv/h/h125/live.m3u8
 
-#EXTINF:-1 group-title="KOREA" tvg-logo="https://raw.githubusercontent.com/gala411/image/main/ktv.png" ,KOREA TV
-https://hlive.ktv.go.kr/live/klive_h.stream/chunklist_w353580429.m3u8
 #EXTINF:-1 group-title="KOREA" tvg-logo="https://raw.githubusercontent.com/gala411/image/main/ebs.png", EBS 1
 https://ebsonair.ebs.co.kr/groundwavefamilypc/familypc1m/chunklist.m3u8
+
 #EXTINF:-1 group-title="KOREA" tvg-logo="https://raw.githubusercontent.com/gala411/image/main/ebs.png" ,EBS 2
 https://ebsonair.ebs.co.kr/ebs2familypc/familypc1m/chunklist.m3u8
+
 #EXTINF:-1 group-title="KOREA" tvg-logo="https://raw.githubusercontent.com/gala411/image/main/ebs.png", EBS KIDS
 https://ebsonair.ebs.co.kr/ebsufamilypc/familypc1m/chunklist.m3u8
+
 #EXTINF:-1 group-title="KOREA" tvg-logo="https://raw.githubusercontent.com/gala411/image/main/ebs.png", EBS+2
 https://ebsonair.ebs.co.kr/plus2familypc/familypc1m/chunklist.m3u8
+
 #EXTINF:-1 group-title="KOREA" tvg-logo="https://raw.githubusercontent.com/gala411/image/main/mbc.png", MBC
 http://123.254.72.24:1935/tvlive/livestream2/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/gala411/image/main/sbs.png" group-title="KOREA", SBS TV
 http://1.245.74.5:1935/live/tv/.m3u8
 
@@ -2638,8 +2635,7 @@ https://newidco-sbs-1-eu.xiaomi.wurl.tv/playlist.m3u8
 
 #EXTINF:0 tvg-logo="https://e1.pngegg.com/pngimages/722/720/png-clipart-korean-drama-ico-korean-drama-512x512-icon-thumbnail.png" group-title="KOREA",Kmovies
 https://bd281c27a16f4a7fb4a88260378e8082.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung_NewMovies/playlist.m3u8
-#EXTINF:0 tvg-logo="https://e1.pngegg.com/pngimages/722/720/png-clipart-korean-drama-ico-korean-drama-512x512-icon-thumbnail.png" group-title="KOREA",K-drama#
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=425
+
 #EXTINF:0 tvg-logo="https://e1.pngegg.com/pngimages/722/720/png-clipart-korean-drama-ico-korean-drama-512x512-icon-thumbnail.png" group-title="KOREA",Kpop SHow
 https://8fd4e0b07d96480eb52382739cc8acce.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung_NewKID/playlist.m3u8
 
