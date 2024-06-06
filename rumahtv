@@ -2127,6 +2127,40 @@ https://iheart-iheart90s-1-us.roku.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="IMTV.id" tvg-logo="https://i.imgur.com/DoH9dqh.png" group-title="MUSIK", Imtv
 https://5bf7b725107e5.streamlock.net/imtv/imtv/playlist.m3u8
 
+#EXTINF:-1 group-title="MUSIK" tvg-id="aquarius.id" tvg-logo="https://iptv.urfan.web.id/logo/aquarius.png",Aquarius Musikindo
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
+https://ythls.urfan.web.id/stream/UCpJRmMTfdv0iPbnjo6qBw_g/master.m3u8
+
+#EXTINF:-1 group-title="MUSIK" tvg-logo="https://iptv.urfan.web.id/logo/24kpoptv.png",24hr K-Pop TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
+https://live.24hrkpop.com/hls/4/stream.m3u8
+
+#EXTINF:-1 group-title="MUSIK" tvg-id="mictv.id" tvg-logo="https://iptv.urfan.web.id/logo/mictv.png",MIC TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
+https://v2.siar.us/mic/live/playlist.m3u8
+
+#EXTINF:-1 group-title="MUSIK" tvg-id="maleo.id" tvg-logo="https://iptv.urfan.web.id/logo/maleo.png",Maleo
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
+https://play.accolamedia.id/accola/maleo.stream/playlist.m3u8
+
+#EXTINF:-1 group-title="MUSIK" tvg-id="musica.id" tvg-logo="https://iptv.urfan.web.id/logo/musica.png",Musica Studios
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
+https://ythls.urfan.web.id/stream/UCNlU3oSU8UnJ_V9uMB-cPOg/master.m3u8
+
+#EXTINF:-1 group-title="MUSIK" tvg-id="musikindonesia.id" tvg-logo="https://iptv.urfan.web.id/logo/musikid.png",Musik Indonesia
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
+https://cdn08jtedge.indihometv.com/dassdvr/134/musikindo/manifest.mpd
+
+#EXTINF:-1 group-title="MUSIK" tvg-id="nagaswara.id" tvg-logo="https://iptv.urfan.web.id/logo/nagaswara.png",Nagaswara
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
+https://ythls.urfan.web.id/stream/UCw9QaspFztufNcEBFlwb5iw/master.m3u8
+
+#EXTINF:-1 group-title="MUSIK" tvg-id="popmusic.id" tvg-logo="https://iptv.urfan.web.id/logo/popmusic.png",POP Music
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
+https://play.accolamedia.id/accola/popmusic.stream/playlist.m3u8
+
+
+
 <========== RELIGI ==========>
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
