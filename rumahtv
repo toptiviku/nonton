@@ -73,7 +73,7 @@ https://s.id/rumahtv
 
 
 
-<====================================== LIVE EVENT EURO 2024
+<====================================== LIVE EVENT EURO 2024=================
 
 #EXTINF:-1 group-logo="https://i.imgur.com/W1y6qZJ.jpeg",EURO 2024
 
@@ -88,8 +88,6 @@ https://testfunctionlive.mncnow.id/live/eds/Sportstar4/sa_dash_vmx/Sportstar4.mp
 #EXTVLCOPT:http-referrer=https://visionplus.id
 #EXTINF:-1 group-title="EURO 2024" tvg-id="mncsports3.id" tvg-logo="https://i.imgur.com/W1y6qZJ.jpeg",Live 2
 https://testfunctionlive.mncnow.id/live/eds/MNCSports3-HD/sa_dash_vmx/MNCSports3-HD.mpd
-
-
 
 <====================================== LIVE EVENT EURO 2024 =====================================>
 #KODIPROP:inputstream=inputstream.ffmpegdirect
