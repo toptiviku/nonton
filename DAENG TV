@@ -1,0 +1,197 @@
+#EXTM3U
+#EXTM3U url-tvg="https://github.com/apistech/project/raw/refs/heads/main/ApisTECH.xml.gz, https://raw.githubusercontent.com/AqFad2811/epg/main/indonesia.xml" $BorpasFileFormat="1"
+
+######################################################################
+## PLAYLIST UNTUK HIBURAN, BEBERAPA CHANNEL MUNGKIN TIDAK BERFUNGSI ##
+######################################################################
+
+#EXTINF:-1,Rombongan Besan TV 1
+http://103.146.197.250:25461/daeng/tmgrh/1
+#EXTINF:-1,Rombongan Besan TV 2
+http://103.146.197.250:25461/daeng/tmgrh/2
+#EXTINF:-1,Rombongan Besan TV 3
+http://103.146.197.250:25461/daeng/tmgrh/3
+#EXTINF:-1,Budaya TV
+http://103.146.197.250:25461/daeng/tmgrh/4
+#EXTINF:-1,Dunia Anak
+http://103.146.197.250:25461/daeng/tmgrh/5
+#EXTINF:-1,Citra Drama
+http://103.146.197.250:25461/daeng/tmgrh/6
+#EXTINF:-1,Lubis Media TV
+http://103.146.197.250:25461/daeng/tmgrh/7
+#EXTINF:-1,Jowo Channel
+http://103.146.197.250:25461/daeng/tmgrh/8
+#EXTINF:-1,BWI 1 TV
+http://103.146.197.250:25461/daeng/tmgrh/9
+#EXTINF:-1,RCTI
+http://103.146.197.250:25461/daeng/tmgrh/10
+#EXTINF:-1,MNCTV
+http://103.146.197.250:25461/daeng/tmgrh/11
+#EXTINF:-1,TV ONE
+http://103.146.197.250:25461/daeng/tmgrh/12
+#EXTINF:-1,GTV
+http://103.146.197.250:25461/daeng/tmgrh/13
+#EXTINF:-1,Metro TV
+http://103.146.197.250:25461/daeng/tmgrh/14
+#EXTINF:-1,TRANS TV
+http://103.146.197.250:25461/daeng/tmgrh/15
+#EXTINF:-1,INDOSIAR
+http://103.146.197.250:25461/daeng/tmgrh/16
+#EXTINF:-1,TRANS 7
+http://103.146.197.250:25461/daeng/tmgrh/17
+#EXTINF:-1,SCTV
+http://103.146.197.250:25461/daeng/tmgrh/18
+#EXTINF:-1,ANTV
+http://103.146.197.250:25461/daeng/tmgrh/19
+#EXTINF:-1,MDTV
+http://103.146.197.250:25461/daeng/tmgrh/20
+#EXTINF:-1,Kompas TV
+http://103.146.197.250:25461/daeng/tmgrh/21
+#EXTINF:-1,RTV
+http://103.146.197.250:25461/daeng/tmgrh/22
+#EXTINF:-1,Mentari TV
+http://103.146.197.250:25461/daeng/tmgrh/23
+#EXTINF:-1,MOJI HD
+http://103.146.197.250:25461/daeng/tmgrh/24
+#EXTINF:-1,Inews
+http://103.146.197.250:25461/daeng/tmgrh/25
+#EXTINF:-1,CNN Indonesia
+http://103.146.197.250:25461/daeng/tmgrh/26
+#EXTINF:-1,CNBC Indonesia
+http://103.146.197.250:25461/daeng/tmgrh/27
+#EXTINF:-1,Berita Satu
+http://103.146.197.250:25461/daeng/tmgrh/28
+#EXTINF:-1,NTV
+http://103.146.197.250:25461/daeng/tmgrh/32
+#EXTINF:-1,Nusantara TV
+http://103.146.197.250:25461/daeng/tmgrh/428
+#EXTINF:-1,Indonesiana TV
+http://103.146.197.250:25461/daeng/tmgrh/33
+#EXTINF:-1,TVRI Nasional
+http://103.146.197.250:25461/daeng/tmgrh/35
+#EXTINF:-1,JTV
+http://103.146.197.250:25461/daeng/tmgrh/36
+#EXTINF:-1,Bali TV
+http://103.146.197.250:25461/daeng/tmgrh/37
+#EXTINF:-1,Astro Supersport 1
+http://103.146.197.250:25461/daeng/tmgrh/429
+#EXTINF:-1,Astro Supersport 2
+http://103.146.197.250:25461/daeng/tmgrh/430
+#EXTINF:-1,Astro Supersport 3
+http://103.146.197.250:25461/daeng/tmgrh/431
+#EXTINF:-1,Astro Supersport 4
+http://103.146.197.250:25461/daeng/tmgrh/432
+#EXTINF:-1,DSTV Supersport Football
+http://103.146.197.250:25461/daeng/tmgrh/433
+#EXTINF:-1,DSTV Supersport EPL
+http://103.146.197.250:25461/daeng/tmgrh/434
+#EXTINF:-1,DSTV Supersport LA LIGA
+http://103.146.197.250:25461/daeng/tmgrh/435
+#EXTINF:-1,TNT Sports 1
+http://103.146.197.250:25461/daeng/tmgrh/436
+#EXTINF:-1,TNT Sports 2
+http://103.146.197.250:25461/daeng/tmgrh/437
+#EXTINF:-1,TNT Sports 3
+http://103.146.197.250:25461/daeng/tmgrh/438
+#EXTINF:-1,SPOTV
+http://103.146.197.250:25461/daeng/tmgrh/38
+#EXTINF:-1,SPOTV 2
+http://103.146.197.250:25461/daeng/tmgrh/39
+#EXTINF:-1,MUTV
+http://103.146.197.250:25461/daeng/tmgrh/40
+#EXTINF:-1,Real Madrid TV
+http://103.146.197.250:25461/daeng/tmgrh/41
+#EXTINF:-1,Bein Sports 1 HD
+http://103.146.197.250:25461/daeng/tmgrh/42
+#EXTINF:-1,Bein Sports 3 HD
+http://103.146.197.250:25461/daeng/tmgrh/43
+#EXTINF:-1,FoxSport HD
+http://103.146.197.250:25461/daeng/tmgrh/44
+#EXTINF:-1,Fight Sport HD
+http://103.146.197.250:25461/daeng/tmgrh/45
+#EXTINF:-1,NBA TV
+http://103.146.197.250:25461/daeng/tmgrh/46
+#EXTINF:-1,Sports TV
+http://103.146.197.250:25461/daeng/tmgrh/47
+#EXTINF:-1,Redbull TV
+http://103.146.197.250:25461/daeng/tmgrh/90
+#EXTINF:-1,HBO HD
+http://103.146.197.250:25461/daeng/tmgrh/48
+#EXTINF:-1,HBO Hits
+http://103.146.197.250:25461/daeng/tmgrh/49
+#EXTINF:-1,HBO Signature HD
+http://103.146.197.250:25461/daeng/tmgrh/50
+#EXTINF:-1,HBO Family HD
+http://103.146.197.250:25461/daeng/tmgrh/51
+#EXTINF:-1,Cinemax
+http://103.146.197.250:25461/daeng/tmgrh/52
+#EXTINF:-1,Galaxy HD
+http://103.146.197.250:25461/daeng/tmgrh/53
+#EXTINF:-1,Galaxy Movies Premium
+http://103.146.197.250:25461/daeng/tmgrh/54
+#EXTINF:-1,AXN HD
+http://103.146.197.250:25461/daeng/tmgrh/55
+#EXTINF:-1,Cinema World
+http://103.146.197.250:25461/daeng/tmgrh/56
+#EXTINF:-1,Cinema Europe
+http://103.146.197.250:25461/daeng/tmgrh/57
+#EXTINF:-1,K+
+http://103.146.197.250:25461/daeng/tmgrh/58
+#EXTINF:-1,TVN
+http://103.146.197.250:25461/daeng/tmgrh/59
+#EXTINF:-1,TVN Movies
+http://103.146.197.250:25461/daeng/tmgrh/60
+#EXTINF:-1,Celestial Movies
+http://103.146.197.250:25461/daeng/tmgrh/61
+#EXTINF:-1,Thrill
+http://103.146.197.250:25461/daeng/tmgrh/62
+#EXTINF:-1,Paramount Network
+http://103.146.197.250:25461/daeng/tmgrh/63
+#EXTINF:-1,FLIX
+http://103.146.197.250:25461/daeng/tmgrh/64
+#EXTINF:-1,Bioskop Indonesia
+http://103.146.197.250:25461/daeng/tmgrh/65
+#EXTINF:-1,KIX
+http://103.146.197.250:25461/daeng/tmgrh/66
+#EXTINF:-1,FOX Crime
+http://103.146.197.250:25461/daeng/tmgrh/68
+#EXTINF:-1,Rock Entertainment
+http://103.146.197.250:25461/daeng/tmgrh/69
+#EXTINF:-1,Dunia Lain
+http://103.146.197.250:25461/daeng/tmgrh/70
+#EXTINF:-1,Zoo Moo Asia
+http://103.146.197.250:25461/daeng/tmgrh/71
+#EXTINF:-1,Aniplus Asia
+http://103.146.197.250:25461/daeng/tmgrh/72
+#EXTINF:-1,Cartoon Network
+http://103.146.197.250:25461/daeng/tmgrh/74
+#EXTINF:-1,DreamWorks HD
+http://103.146.197.250:25461/daeng/tmgrh/75
+#EXTINF:-1,Nick Jr
+http://103.146.197.250:25461/daeng/tmgrh/76
+#EXTINF:-1,Tech Storm
+http://103.146.197.250:25461/daeng/tmgrh/77
+#EXTINF:-1,MTV
+http://103.146.197.250:25461/daeng/tmgrh/78
+#EXTINF:-1,AFN
+http://103.146.197.250:25461/daeng/tmgrh/79
+#EXTINF:-1,HGTV
+http://103.146.197.250:25461/daeng/tmgrh/80
+#EXTINF:-1,History Channel
+http://103.146.197.250:25461/daeng/tmgrh/81
+#EXTINF:-1,Arirang
+http://103.146.197.250:25461/daeng/tmgrh/82
+#EXTINF:-1,Sony GEM
+http://103.146.197.250:25461/daeng/tmgrh/83
+#EXTINF:-1,U Channel
+http://103.146.197.250:25461/daeng/tmgrh/85
+#EXTINF:-1,TVMU
+http://103.146.197.250:25461/daeng/tmgrh/86
+#EXTINF:-1,TV9 Nusantara
+http://103.146.197.250:25461/daeng/tmgrh/87
+#EXTINF:-1,Rodja TV
+http://103.146.197.250:25461/daeng/tmgrh/88
+#EXTINF:-1,TV MUI
+http://103.146.197.250:25461/daeng/tmgrh/89
+#EXTINF:-1,MAKKAH
+http://103.146.197.250:25461/daeng/tmgrh/439
