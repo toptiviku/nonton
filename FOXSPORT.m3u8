@@ -1,0 +1,3 @@
+#EXTM3U
+#EXT-X-STREAM-INF:BANDWIDTH=500000,RESOLUTION=1920x1080
+http://line.smootvone.vip:80/play/live.php?mac=00:1A:79:C8:7B:30&stream=858547&extension=ts
